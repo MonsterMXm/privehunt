@@ -1,0 +1,13 @@
+aiogram==3.0.0b7
+ccxt==4.1.59
+numpy==1.26.0
+python-dotenv==1.0.0
+transformers==4.33.1
+textblob==0.17.1
+apscheduler==3.10.1
+sqlite3==2.6.0
+aiohttp==3.8.5
+requests==2.31.0
+python-dateutil==2.8.2
+cBYI8W2PRK4XtYxIG8Ja5ah9krh8HeF2Cu4dZwkYzojzq2g6RQdulnrnNulo1G50J1Y6fDdPz9jazaJ0AGnCbQ
+ключ api bingx
